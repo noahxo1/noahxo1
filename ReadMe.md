@@ -1,5 +1,23 @@
-# About Me:
-# Hey, I'm Noah 👋<br><br>### Developer • Gamer • Builder<br><br>I like turning random ideas into things people can actually use.<br><br>I'm currently focused on **web development**, building interactive projects, and experimenting with AI-assisted development.<br><br>---<br><br>## 🚀 What I'm Building<br><br>🎮 Gaming tools & experiences  <br>🌐 Modern web applications  <br>🤖 AI-powered tools  <br>🧪 Random ideas that somehow become actual projects<br><br>---<br><br>## 
+## About Me
+
+Hey, I'm Noah 👋
+
+**Developer • Gamer • Builder**
+
+I like turning random ideas into things people can actually use.
+
+I'm currently focused on **web development**, building interactive projects, and experimenting with AI-assisted development.
+
+---
+
+### 🚀 What I'm Building
+
+- 🎮 Gaming tools & experiences
+- 🌐 Modern web applications
+- 🤖 AI-powered tools
+- 🧪 Random ideas that somehow become actual projects
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@noah.xo1_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/noahxo1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@noahxgamer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vnoahpaul@gmail.com) 
